@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Speak>
+        Welcome to Vobiz AI.
+        This is a test call from Plivo.
+        Your SIP integration is working successfully.
+    </Speak>
+    <Hangup/>
+</Response>
